@@ -44,7 +44,7 @@ print_r($errors);
 
 <?php
 if (isset($_GET['success']) && empty($_GET['success'])) {
-	echo 'You in nigga!';
+	echo 'You've registered successfully!';
 } else {
 	if (empty($_POST) === false && empty($errors) === true) {
 		$register_data = array (
