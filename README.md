@@ -1,4 +1,4 @@
-# Tutoring_Website
+# Tutoring Website
 I decided to address a need in our school community for a comprehensive platform to coordinate math tutoring. I am using my newfound knowledge in PHP to code and program a website for the school's math department. It is still in development - so far the login script has been made (for which the directories are shown above).
 
 An algorithm which determines which students in their specific time frames can connect to tutors within their availability is currently being developed for the website.
