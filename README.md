@@ -15,6 +15,6 @@ include 'includes/head.php';
 
 Moreover, I also learnt how to organize user data, establish error handling with various prompts for an incorrect password, incorrect email, registration, account activation, username/password combination, and many other errors (the script for these can be located on the login.php file above). I also learnt how to validate data after it was fed through the registration form on the website, which - in turn established connection with the mySQL user database on phpmyadmin on my server. 
 
-The next step in making the login process better is by protecting the website by preventing people who haven't logged in or registered from accessing information which shouldn't be available to them. If you would like to ask any questions about my process you can contact me at - aryan.cheema.152@my.aquinas.me
+The next step in making the login process better is by protecting the website by preventing people who haven't logged in or registered from accessing information which shouldn't be available to them. If you would like to ask any questions about my process you can contact me at - aryan.cheema.152@my.aquinas.me.
 
 I have hosted the website using 000webhosting, and using an FTP client to transfer my files from a local to a live server. This is the website: http://statutoring.site88.net/
