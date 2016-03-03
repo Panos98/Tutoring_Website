@@ -17,4 +17,4 @@ Moreover, I also learnt how to organize user data, establish error handling with
 
 The next step in making the login process better is by protecting the website by preventing people who haven't logged in or registered from accessing information which shouldn't be available to them. If you would like to ask any questions about my process you can contact me at - aryan.cheema.152@my.aquinas.me.
 
-I have hosted the website using 000webhosting, and using an FTP client to transfer my files from a local to a live server. This is the website: http://statutoring.site88.net/
+I have hosted the website using 000webhosting, and using an FTP client to transfer my files from a local to a live server. This is the website as of yet (more updates concerning the tutoring algorithm will be made later): http://statutoring.site88.net/
