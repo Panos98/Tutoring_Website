@@ -19,4 +19,4 @@ The next step in making the login process better is by protecting the website by
 
 I have hosted the website using 000webhosting, and using an FTP client to transfer my files from a local to a live server. 
 
-Due to techinical issues with mySQL and the FTP client I have taken the server down so the website will not be accessed for a short period of time (until I am able to backup WAMP and re-install it).
+Due to techinical issues with mySQL and the FTP client I have taken the server down so the website will not be accessed for a short period of time (until I am able to backup the WAMP server and re-install it).
