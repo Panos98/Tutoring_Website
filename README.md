@@ -25,4 +25,4 @@ Due to techinical issues with mySQL and the FTP client I have taken the server d
 <img width="838" alt="diweudfj" src="https://cloud.githubusercontent.com/assets/16159880/13625636/c374521c-e587-11e5-8710-f107cbecbf18.PNG">
 
 
-The following screenshots are of the website with the localhost sever on my computers "cas" directory (look on the URL of the screenshots).
+The following screenshots are of the website with the localhost sever on my computers "cas_project" directory (look on the URL of the screenshots).
