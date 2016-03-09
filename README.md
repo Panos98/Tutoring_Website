@@ -25,4 +25,4 @@ Since I'm implementing the Javascrip code into the website I have taken it down.
 <img width="838" alt="diweudfj" src="https://cloud.githubusercontent.com/assets/16159880/13625636/c374521c-e587-11e5-8710-f107cbecbf18.PNG">
 
 
-The following screenshots are of the website with the localhost sever on my computers "cas_project" directory (look on the URL of the screenshots).
+The following screenshots are of the website with the localhost sever on my computers "cas_project" directory (look at the URL of the screenshots).
