@@ -21,5 +21,8 @@ I have hosted the website using 000webhosting, and using an FTP client to transf
 
 Due to techinical issues with mySQL and the FTP client I have taken the server down so the website will not be accessed for a short period of time (until I am able to backup the WAMP server and re-install it).
 
-<img width="713" alt="fjkedjf" src="https://cloud.githubusercontent.com/assets/16159880/13624125/7c0dcaba-e579-11e5-9173-3fbdaf3109fe.PNG">
-<img width="738" alt="hjj" src="https://cloud.githubusercontent.com/assets/16159880/13624128/7e912f02-e579-11e5-8263-333239b806a8.PNG">
+<img width="896" alt="kjbvkdn" src="https://cloud.githubusercontent.com/assets/16159880/13625634/c22c5c42-e587-11e5-8506-61008bc3f466.PNG">
+<img width="838" alt="diweudfj" src="https://cloud.githubusercontent.com/assets/16159880/13625636/c374521c-e587-11e5-8710-f107cbecbf18.PNG">
+
+
+The following screenshots are of the website with the localhost sever on my computers "cas" directory (look on the URL of the screenshots).
