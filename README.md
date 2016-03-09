@@ -19,7 +19,7 @@ The next step in making the login process better is by protecting the website by
 
 I have hosted the website using 000webhosting, and using an FTP client to transfer my files from a local to a live server. 
 
-Due to techinical issues with mySQL and the FTP client I have taken the server down so the website will not be accessed for a short period of time (until I am able to backup the WAMP server and re-install it).
+Since I'm implementing the Javascrip code into the website I have taken it down. If you would like the website address I can host it temporarily if someone would like to take a look at it. Contact me by my email - aryan.cheema.152@my.aquinas.me
 
 <img width="896" alt="kjbvkdn" src="https://cloud.githubusercontent.com/assets/16159880/13625634/c22c5c42-e587-11e5-8506-61008bc3f466.PNG">
 <img width="838" alt="diweudfj" src="https://cloud.githubusercontent.com/assets/16159880/13625636/c374521c-e587-11e5-8710-f107cbecbf18.PNG">
