@@ -80,7 +80,7 @@ if (isset($_GET['success']) && empty($_GET['success'])) {
 				Password again*:<br>
 				<input type="password" name="password_again">
 			</li>
-			<li
+			<li>
 				First name*:<br>
 				<input type="text" name="first_name">
 			</li>
@@ -100,5 +100,6 @@ if (isset($_GET['success']) && empty($_GET['success'])) {
 
 
 <?php 
+
 }
 include 'includes/overall/footer.php'; ?>
