@@ -85,7 +85,7 @@ if (isset($_GET['success']) && empty($_GET['success'])) {
 				<input type="text" name="first_name">
 			</li>
 			<li>
-				Last name:<br>
+				Last  name:<br>
 				<input type="text" name="last_name">
 			</li>
 			<li>
