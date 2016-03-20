@@ -14,7 +14,7 @@ if (empty($_POST) === false) {
 	}
 	
 	if (empty($errors) === true) {
-		if (user_exists($_POST['username']) === true) {
+		if (user_exists($_POST['username']) === true)  {
 			$errors[] = 'Sorry, the username \'' . $_POST['username'] . '\' is already taken.';
 		}
 		if (preg_match("/\\s/", $_POST['username']) == true){
