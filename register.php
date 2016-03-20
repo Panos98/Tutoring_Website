@@ -4,7 +4,7 @@ include 'core/init.php';
 include 'includes/overall/header.php';
 
 
-if (empty($_POST) === false) {
+if (empty($_POST) === false)  {
 	$required_fields = array('username', 'password', 'password_again', 'first_name', 'email', '');
 	foreach($_POST as $key=>$value){
 		if (empty($value) && in_array($key, $required_fields) === true) {
