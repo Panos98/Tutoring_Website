@@ -1,5 +1,5 @@
 <?php
-function register_user($register_data) {
+function register_user($register_data)  {
 	array_walk($register_data, 'array_sanitize');
 	$register_data['password'] = md5($register_data['password']);
 	
@@ -10,15 +10,17 @@ function register_user($register_data) {
 	mysql_query("INSERT INTO `users` ($fields) VALUES ($data)");
 }
 
-function user_count() {
+function user_count()  {
 	return mysql_result(mysql_query("SELECT COUNT(`user_id` FROM `users` WHERE `active` = 1"), 0);
+	
 }
 
 
 
-function user_data($user_id) {
+function user_data($user_id)  {
 	$data = array();
 	$user_id = (int)$user_id;
+	
 	
 	$func_num_args = func_num_args();
 	$func_get_args = func_get_args();
